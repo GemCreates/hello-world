@@ -2,5 +2,4 @@
 
 Hey guys!
 
-BluRubi from GemCreates here, and I just want to say, I love coffee and moon tacos...
-Thanks! Bye!
+I'm CrystalSocks and I love programming in Java! I really want to learn how to program well and grow my love for this hobby.
